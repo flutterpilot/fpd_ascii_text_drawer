@@ -1,0 +1,18 @@
+name: fpd_ascii_text_drawer
+description: Dibujador de texto ASCII
+keywords: ascii, text, drawer, art
+version: 1.0.1
+publisher: flutterpilot.dev
+homepage: https://flutterpilot.dev
+repository: https://github.com/flutterpilot/fpd_ascii_text_drawer
+issue_tracker: https://github.com/flutterpilot/fpd_ascii_text_drawer/issues
+documentation: https://github.com/flutterpilot/fpd_ascii_text_drawer#readme
+
+environment:
+  sdk: ^3.0.0
+
+dependencies:
+
+dev_dependencies:
+  test: ^1.24.0
+  lints: ^5.0.0
